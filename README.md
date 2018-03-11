@@ -8,7 +8,7 @@ I've added basic styling to a welcome page, even though, it will be improved in 
 
 ___
 
-![Image](GithubDescription/welcome-page.png)
+![Image](GithubDescription/welcome-page.png?raw=true)
 
 ___
 
